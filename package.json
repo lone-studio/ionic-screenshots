@@ -1,0 +1,8 @@
+{
+  "name": "ionic-screenshots",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-7z": "latest",
+    "puppeteer": "^1.20.0"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+images/
+*.zip
+.DS_STORE
+.idea/
